@@ -1,0 +1,3 @@
+variable "virtul_machine" {
+
+}

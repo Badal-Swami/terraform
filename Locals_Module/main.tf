@@ -1,0 +1,4 @@
+module "stgmodule" {
+    source = "../locals"
+  
+}
